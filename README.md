@@ -6,6 +6,8 @@ Projeto que tem com o objetivo de apresentar os casos de covid pelo mundo e suas
 
 Projeto hospedado no netlify: https://world-covid-cases.netlify.app/
 
+tecnologias utilizadas: Angular, Javascript, typescript, html5, css3, node js e biblioteca amchart5
+
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.2.
