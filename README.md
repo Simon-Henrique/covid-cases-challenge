@@ -2,7 +2,7 @@
 
 This is a challenge by Coodesh
 
-Projeto que tem com o objetivo de apresentar os casos de covid pelo mundo e suas variantes, através de um mapa mundi, as informações foram compiladas por variante, dados consumidos através de uma API rest hospedada no supabase.
+Projeto que tem como objetivo de apresentar os casos de covid pelo mundo e suas variantes, através de um mapa mundi, as informações foram compiladas por variante, dados consumidos através de uma API rest hospedada no supabase.
 
 Projeto hospedado no netlify: https://world-covid-cases.netlify.app/
 
